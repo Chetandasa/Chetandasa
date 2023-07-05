@@ -9,12 +9,3 @@
 </h4>
 <h3>Web Development Projects</h3>
 <hr />
-<h4>My Portfolio = <a href="https://3d-portfolio-chetan.vercel.app/"><button class="Website">Chetan Dasa</button></a></h4>
-<h4>E-Commerce Website = <a href="https://3d-portfolio-chetan.vercel.app/"><button class="Website"Store"</button></a></h4>
-<h5>Flexible = <a href="https://grafbase-flexible.vercel.app/"><button class="Website">Visit Website</button></a></h5>
-<h5>TV-Shows = <a href="https://tvshowsclone.vercel.app/"><button class="Website">Visit Website</button></a></h5>
-<h5>AI-Promptopia = <a href="https://ai-promptopiaweb.vercel.app/"><button class="Website">Visit Website</button></a></h5>
-<h5>AI-Summarize = <a href="https://summz-ai.netlify.app/"><button class="Website">Visit Website</button></a></h5>
-<h5>CarHub = <a href="https://carhub-cd.vercel.app/"><button class="Website">Visit Website</button></a></h5>
-<hr />
-<h4>WordPress Simple <a href="https://wordpressfirstcd.000webhostapp.com/"><button class="Website"> Website</button></a></h4>
