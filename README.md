@@ -21,7 +21,7 @@
 <li><h4>AIP Image search Website - <a href="https://movie-website-sage.vercel.app/">click here </a>for Image search Website</h4></li>
 <li><h4>Weather App Cloud - <a href="https://weatherappcloud.vercel.app/">click here </a>for Weather Website</h4></li>
 </ul>
-<h3>WordPress Projects</h3>
+<!-- <h3>WordPress Projects</h3>
 <ul>
 <li><h4>Wordpress - <a href="https://wordpressfirstcd.000webhostapp.com/">click here </a>for Website</h4></li>
-</ul>
+</ul> -->
