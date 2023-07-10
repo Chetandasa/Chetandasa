@@ -20,7 +20,7 @@
 <li><h4>TV-Shows for Watching Movies link Netflix - <a href="https://tvshowsclone.vercel.app/">click here </a>for TV-Shows Website</h4></li>
 <li><h4>AI-Promptopia - <a href="https://ai-promptopiaweb.vercel.app/">click here </a>for AI-Prompt Website</h4></li>
 <li><h4>AI-Summarize - <a href="https://summz-ai.netlify.app">click here </a>for AI-Summarize Website</h4></li>
-<li><h4>AIP Image search Website - <a href="https://movie-website-sage.vercel.app/">click here </a>for Image search Website</h4></li>
+<li><h4>AIP Movie Image search Website - <a href="https://movie-website-sage.vercel.app/">click here </a>for Image search Website</h4></li>
 <li><h4>Weather App Cloud - <a href="https://weatherappcloud.vercel.app/">click here </a>for Weather Website</h4></li>
 </ul>
 <!-- <h3>WordPress Projects</h3>
