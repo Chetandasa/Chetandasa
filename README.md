@@ -12,7 +12,6 @@
 <h3>Full Stack Developer <a href="https://drive.google.com/file/d/1Q2tpijI0OuBvFCGMlgUvtkp0AXUxVbId/view?usp=drive_link">Certificate </a></h3>
 
 <h2>Web Development Projects</h2>
-<hr />
 <ul>
 <li><h3>E-commerce Website A Best Website from me <a href="https://ecommerce-store-ruby.vercel.app/">click here </a>for Store Website</h3></li>
 <li><h4>Flexible Website - <a href="https://grafbase-flexible.vercel.app/">click here </a>for Flexible Website</h4></li>
