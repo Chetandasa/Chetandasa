@@ -7,7 +7,7 @@
 
 <h2>🙋‍♂️ About Me</h2>
 <h3>Hey 👋! Its Chetan</h3>
-<h4>I'm a Frontend Developer with experience in creating and maintaining responsive websites, and using modern libraries and frameworks to implement innovative web solutions
+<h4>I'm a Frontend Developer with experience in creating and maintaining responsive websites, and using modern libraries and frameworks to implement innovative web solutions.
 </h4>
 <!-- <h3>Full Stack Web Developer <a href="https://drive.google.com/file/d/1Q2tpijI0OuBvFCGMlgUvtkp0AXUxVbId/view?usp=drive_link">Certificate </a></h3> -->
 
