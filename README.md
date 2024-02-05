@@ -13,7 +13,7 @@
 </h4>
 <!-- <h3>Full Stack Web Developer <a href="https://drive.google.com/file/d/1Q2tpijI0OuBvFCGMlgUvtkp0AXUxVbId/view?usp=drive_link">Certificate </a></h3> -->
 
-<h2>Web Development Projects</h2>
+<h2>Full Stack Development Projects</h2>
 <ul>
 <li><h4>AI-Genius to Generate any thing <a href="https://ai-saas-genius-cd.vercel.app/">click here </a>for Genius Website.</h4></li>
 <li><h4>E-commerce Website A Best Website from me <a href="https://ecommerce-store-ruby.vercel.app/">click here </a>for Store Website</h4></li>
